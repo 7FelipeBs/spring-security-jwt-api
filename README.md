@@ -24,6 +24,6 @@ token.app.jwtExpirationMs= 120000 //Tempo do Token, esse tempo é baseado em Mil
 ````
 
 ### CRÉDITOS
-Esse código foi baseado e alterado algumas coisas conforme fui estudando o código original que é do [Bezkoder](https://github.com/bezkoder), caso queira acessar esse projeto muito bem feito dele no qual onde por mais que ensine isso, ele mostra em diversos frameworks webs e com mais conteúdos.
+Esse código foi feito e alterado em cima da mini aula de JWT que e é do [Bezkoder](https://github.com/bezkoder), caso queira acessar esse projeto muito bem feito por ele no qual ele abrange muito mais coisas do que só JWT vou disponibilizar o link para vocês, ele mostra em diversos frameworks webs e com mais conteúdos aplicações de segurança.
 
 Link do projeto: https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication
