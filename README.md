@@ -22,6 +22,7 @@ spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.MySQL5InnoDBDiale
 token.app.jwtSecret= secretSecretKey
 token.app.jwtExpirationMs= 120000 //Tempo do Token, esse tempo é baseado em Milissegundos.
 ````
+Após configurar essa parte, favor acessar um terminal de comando e rodar o código: **mvn clean install eclipse:eclipse** dentro da pasta do projeto.
 
 ### CRÉDITOS
 Esse código foi feito e alterado em cima da mini aula de JWT que é do [Bezkoder](https://github.com/bezkoder), caso queira acessar esse projeto que esta uito bem feito por ele no qual ele abrange muito mais coisas do que só JWT vou disponibilizar o link para vocês, ele mostra em diversos frameworks webs e com mais conteúdos aplicações de segurança.
